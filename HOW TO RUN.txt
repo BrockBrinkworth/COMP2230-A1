@@ -1,0 +1,17 @@
+run MazeGenerator with command line argument:
+
+javac MaveGenerator.java
+
+java MazeGenerator
+
+- Program will ask how many columns and rows you want then ask for a filename for "output".txt (No need to add .txt, program does it automatically).
+
+-----------------
+
+run MazeSolverDFS.java with command line argument:
+
+javac MazeSolverDFS.java
+
+java MazeSolverDFS "output.txt"
+
+- "output" same as what you called it when running MazeGenerator. NEEDS whole "output.txt" in this case. (Doesn't add .txt automatically here)
